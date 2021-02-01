@@ -27,7 +27,7 @@ Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group
 
 ## Run
 
-1. `git clone https://github.com/thehamkercat/Telegram_VC_Bot`, to download the source code.
+1. `git clone https://github.com/venilabots/Telegram_VC_Bot`, to download the source code.
 2. `cd Telegram_VC_Bot`, to enter the directory.
 3. `pip3 install -r requirements.txt`, to install the requirements.
 4. `cp sample_config.py config.py`
